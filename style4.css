@@ -1,0 +1,74 @@
+nav{
+  background-color: #ffba08;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+nav a{
+  color: #370617;
+  text-decoration: none;
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin-left: 40px;
+}
+nav img{
+  width: 50px;
+}
+div.background {
+  background: url(image4/meebon.jpg) repeat;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  Background-size:cover;
+ 
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff9a;
+  border: 1px solid black;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+  font-family: 'Tenor Sans', sans-serif;
+}
+body {
+  background-color: #000000;
+}
+.img {
+  width: 30%;
+  margin: 20px;
+  border-radius: 30px;
+}
+div h2 {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+footer{
+  background-color: #ffba08;
+  padding: 20px;
+}
+.footer-link {
+  text-decoration: none;
+}
+.footer-link a{
+  color: #370617;
+  text-decoration: none;
+  margin:0 15px;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+.icon .bi {
+  color: #370617;
+  font-size: 30px;
+  text-decoration: none;
+  margin:0 15px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}

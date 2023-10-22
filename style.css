@@ -1,0 +1,79 @@
+nav{
+    background-color: #ffba08;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+nav a{
+    color: #370617;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 40px;
+}
+nav img{
+    width: 50px;
+}
+table{
+    margin: 30px;
+    border-spacing: 20px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+td img{
+    width: 600px;
+    border-radius: 30px;
+}
+td p {
+    font-size: 24px;
+    color: #fff3b0;
+    font-family: 'Courier New', Courier, monospace;
+}
+td h1{
+    font-size: 40px;
+    color: #fff3b0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text{
+    border: 2px solid #ffba08;
+    padding: 20px;
+}
+body {
+    background-color: #000000;
+}
+footer{
+    background-color: #ffba08;
+    padding: 20px;
+}
+.footer-link {
+    text-decoration: none;
+}
+.footer-link a{
+    color: #370617;
+    text-decoration: none;
+    margin:0 15px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.icon .bi {
+    color: #370617;
+    font-size: 30px;
+    text-decoration: none;
+    margin:0 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+section{
+    margin-bottom: 30px;
+}
+.bruh {
+    padding: 20px;
+}
+tr{
+    margin: 30px;
+}

@@ -1,0 +1,85 @@
+.navi{
+    background-color: #ffba08;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.nava{
+    color: #370617;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.hero{
+    width: 50px;
+}
+
+.page {
+    background-image: url(Image2/thadingyut4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.p2 {
+    text-align: left;
+    background-color: black;
+    color: #f3d27f;
+    padding: 90px;
+    margin-bottom: 51px;
+    margin-top: 51px;
+    margin-left: 51px;
+    margin-right: 51px;
+
+}
+table   {
+    margin-top: 30px;
+    margin-left: 33px;
+    margin-right: 33px;
+    padding: 15px;
+}
+.p1  {
+    text-align:left;
+    background-color: black;
+    color: #f3d27f;
+    padding: 60px;
+    margin-bottom: 51px;
+    margin-top: 51px;
+    margin-left: 51px;
+    margin-right: 51px;
+}
+.bac   {
+    background-color: #f3d27f8c;
+}
+.gg {
+    margin-left: 78px;
+    width: 420px;
+}
+footer{
+    background-color: #ffba08;
+    padding: 20px;
+}
+.footer-link {
+    text-decoration: none;
+}
+.footer-link a{
+    color: #370617;
+    text-decoration: none;
+    margin:0 15px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.icon .bi {
+    color: #370617;
+    font-size: 30px;
+    text-decoration: none;
+    margin:0 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
